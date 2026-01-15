@@ -1,0 +1,5 @@
+{
+  "name": "Fake News AI Project Builder",
+  "description": "An interactive tutorial and code generation platform for building a Fake News Detection System with Explainable AI (SHAP). Learn NLP, ML, and XAI in one place.",
+  "requestFramePermissions": []
+}
